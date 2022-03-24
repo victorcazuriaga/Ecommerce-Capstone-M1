@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capstone - ECOMMERCE</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+
+<body>
+    <!-- TOPO DA PAGINA -->
+    <div>
+        <header id="navBar">
+            <div id="logon">Weartake</div>
+            <ul id="menuItens">
+                <li class="_activated">Todos</li>
+                <li>Acessórios</li>
+                <li>Camisetas</li>
+                <li>Calçados</li>
+            </ul>
+        </header>
+    </div>
+    <!-- Main Contendo os Produtos -->
+    <main>
+        <div id='products'></div>
+        <!-- Campo Pesquisar e Carrinho  -->
+        <div id='information'>
+
+            <div class="search">
+                <input class="search_input" type="text" placeholder="Digite aqui sua Pesquisa">
+                <button class="search_button" onClick="onSearchProducts()">Pesquisar</button>
+            </div>
+            <div class="informartion_cart">
+                <div class="informartion_cart_list">
+                    <h1 class="shopping_cart_title">Carrinho de compras</h1>
+
+                    <div class="empty_cart _hidden">
+                        <h3>Carrinho Vazio</h3>
+                        <p>Adicione Itens</p>
+                    </div>
+                    <div class="cart_list_itens cart_active">
+                    </div>
+                    <div class="cart_list_infoBox cart_active">
+                        <p>Quantidade:</p>
+                        <p id="quantidade">0</p>
+                    </div>
+                    <div class="cart_list_infoBox cart_active">
+                        <p>Total:</p>
+                        <p id="total">0</p>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        </div>
+    </main>
+
+    <script src="index.js"></script>
+</body>
+
+</html>

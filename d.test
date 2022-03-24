@@ -1,0 +1,35 @@
+                    [{img:"assets/IMG PRODUCTS/Men-Jacket-Front-Black__15466 1.svg"
+                    tagName:Camisetas
+                    name:Lightweight Jacket
+                    description:"Adicione um pouco de energia ao seu guarda-roupa de inverno com esta jaqueta vibrante..."
+                    price: 100},
+
+                    {img:"assets/IMG PRODUCTS/hood.svg"
+                    tagName:Acessórios
+                    name:Black Hat
+                    description:"O gorro Next.js chegou! Esta beldade bordada tem um ajuste confortável que garante que..."
+                    price: 100},
+
+                    {img:"assets/IMG PRODUCTS/Surgical-Mask-Black__89554 1.svg"
+                    tagName:Acessórios
+                    name:Mask
+                    description:"Esta máscara facial durável é feita de duas camadas de tecido tratado e possui presilhas..."
+                    price: 40},
+
+                    {img:"assets/IMG PRODUCTS/Men-TShirt-Black-Front__70046 1.svg"
+                    tagName:Camisetas
+                    name:T-Shirt
+                    description:"Esta t-shirt é imprescindível no seu guarda-roupa, combinando o caimento intemporal de..."
+                    price: 999},
+
+                    {img:"assets/IMG PRODUCTS/mockup-a0dc2330__62146 1.svg"
+                    tagName:Camisetas
+                    name:Short-Sleeve T-Shirt
+                    description:"Agora você encontrou a camiseta básica do seu guarda-roupa. É feito de um mais grosso..."
+                    price: 100},
+
+                    {img:"assets/IMG PRODUCTS/mockup-9b9894f1__67347 1.svg"
+                    tagName:Camisetas
+                    name:Champion Packable Jacket
+                    description:"Proteja-se dos elementos com esta jaqueta embalável Champion. Esta jaqueta de poliést...",
+                    price: 100}]
