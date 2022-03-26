@@ -195,7 +195,7 @@ main {
 
 .action_cart._underlined {
     text-decoration: underline;
-
+    cursor: pointer;
 
 }
 
