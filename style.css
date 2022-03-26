@@ -44,6 +44,7 @@
 #menuItens li {
     margin-right: 15px;
     transition: 0.2s;
+    cursor: pointer;
 }
 
 #menuItens li:hover {
@@ -186,7 +187,7 @@ main {
     color: var(--color-grey50-4);
     width: 147px;
     height: 16px;
-
+    cursor: pointer;
 
 
 
@@ -302,7 +303,7 @@ main {
     height: 100%;
     border: none;
     justify-content: end;
-
+    cursor: pointer;
 
 
 }
